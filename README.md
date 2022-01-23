@@ -1,2 +1,2 @@
 # DeepLearning_Tuts
-This repo contains deep learning tutorials for beginners.
+This repo contains deep learning projects for beginners.
